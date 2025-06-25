@@ -668,9 +668,8 @@ h5 {
   80% {
     top: 0;
   }
-}
 .headshot {
-  width: 250px;
+  width: 320px;
   border-radius: 16px;
   object-fit: cover;
   border: 3px solid #f0f0f0;
