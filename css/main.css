@@ -457,6 +457,10 @@ h5 {
   margin-top: 0;
   text-align: left;
 }
+.project-box {
+  flex: 1 1 300px;
+  margin: 15px;
+}
 
 /* Contact */
 .contact {
