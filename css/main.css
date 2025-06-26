@@ -697,3 +697,13 @@ h5 {
 .btn-linkedin:hover {
   background-color: #084C9D;
 }
+.about-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.about-content {
+  flex: 1 1 100%; /* full width on large screens */
+  max-width: 100%;
+  padding: 0 15px; /* optional padding */
+}
